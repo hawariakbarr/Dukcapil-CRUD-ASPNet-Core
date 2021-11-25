@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ASPNet_Dukcapil_CRUD.Models
 {
-    public class MaritalStatus
+    public class Marital
     {
         [Key]
         public int MaritalID { get; set; }

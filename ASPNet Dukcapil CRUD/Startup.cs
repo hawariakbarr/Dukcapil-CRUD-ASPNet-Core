@@ -50,7 +50,7 @@ namespace ASPNet_Dukcapil_CRUD
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Dukcapils}/{action=Index}/{id?}");
             });
         }
     }

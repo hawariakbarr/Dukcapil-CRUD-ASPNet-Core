@@ -20,6 +20,6 @@ namespace ASPNet_Dukcapil_CRUD.Models
 
         public DbSet<Dukcapil> Dukcapils { get; set; }
         public DbSet<Religion> Religions { get; set; }
-        public DbSet<MaritalStatus> MaritalStatuses { get; set; }
+        public DbSet<Marital> Maritals { get; set; }
     }
 }
