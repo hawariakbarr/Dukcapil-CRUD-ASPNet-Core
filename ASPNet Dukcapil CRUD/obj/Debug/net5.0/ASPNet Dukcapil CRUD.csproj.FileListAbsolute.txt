@@ -1,0 +1,72 @@
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\appsettings.Development.json
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\appsettings.json
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\ASPNet Dukcapil CRUD.exe
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\ASPNet Dukcapil CRUD.deps.json
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\ASPNet Dukcapil CRUD.runtimeconfig.json
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\ASPNet Dukcapil CRUD.runtimeconfig.dev.json
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\ASPNet Dukcapil CRUD.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\ref\ASPNet Dukcapil CRUD.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\ASPNet Dukcapil CRUD.pdb
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\ASPNet Dukcapil CRUD.Views.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\ASPNet Dukcapil CRUD.Views.pdb
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.csproj.AssemblyReference.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.AssemblyInfoInputs.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.AssemblyInfo.cs
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.csproj.CoreCompileInputs.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.MvcApplicationPartsAssemblyInfo.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.RazorAssemblyInfo.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.RazorAssemblyInfo.cs
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\staticwebassets\ASPNet Dukcapil CRUD.StaticWebAssets.Manifest.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\staticwebassets\ASPNet Dukcapil CRUD.StaticWebAssets.xml
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\scopedcss\bundle\ASPNet Dukcapil CRUD.styles.css
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.TagHelpers.input.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.TagHelpers.output.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.RazorCoreGenerate.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.RazorTargetAssemblyInfo.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.RazorTargetAssemblyInfo.cs
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.Views.pdb
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ref\ASPNet Dukcapil CRUD.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.pdb
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.genruntimeconfig.cache
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\obj\Debug\net5.0\ASPNet Dukcapil CRUD.csproj.CopyComplete
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Humanizer.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Code\Visual Studio\ASP Net Core\ASPNet Dukcapil CRUD\ASPNet Dukcapil CRUD\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
