@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Globalization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ASPNet_Dukcapil_CRUD.Models
 {
