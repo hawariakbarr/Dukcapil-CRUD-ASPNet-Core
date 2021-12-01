@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ASPNet_Dukcapil_CRUD.Models;
+using System.Text.Json;
 
 namespace ASPNet_Dukcapil_CRUD
 {
@@ -41,9 +42,44 @@ namespace ASPNet_Dukcapil_CRUD
             return dukcapil;
         }
 
+        //POST: api/DukcapilsAPI/NIK
+        [HttpPost]
+        [Route("FindNIK")]
+        [Consumes("application/json")]
+        public async Task<ActionResult<DukcapilResult>> PostDukcapilResult(DukcapilResult dukcapilResult)
+        {
+            Dukcapil duckapil = new Dukcapil();
+            var dukcapilData = _context.Dukcapils.Where(d => d.NIK == dukcapilResult.NIK).ToList();
+            if(dukcapilData.Count == 0)
+            {
+                dukcapilResult.CheckStatus = "Not Found";
+                _context.DukcapilResults.Add(dukcapilResult);
+                await _context.SaveChangesAsync();
+                return NotFound();
+            }
+
+            dukcapilResult.CheckStatus = "Found";
+            _context.DukcapilResults.Add(dukcapilResult);
+            await _context.SaveChangesAsync();
+
+            var data = new
+            {
+                dukcapilID = dukcapilData[0].DukcapilID,
+                nik = dukcapilData[0].NIK,
+                name = dukcapilData[0].Name,
+                maidenName = dukcapilData[0].MaidenName,
+                birthDate = dukcapilData[0].BrithDate,
+                gender = dukcapilData[0].Gender,
+                religion = _context.Religions.Where(r => r.ReligionID == dukcapilData[0].ReligionID),
+                marital = _context.Maritals.Where(m => m.MaritalID == dukcapilData[0].MaritalID)
+            };
+
+            return Ok(data);
+        }
+
         //GET: api/DukcapilsAPI/NIK/{nik}
-        [HttpGet("NIK/{nik}")]
-        public IActionResult FindNIK(string nik)
+        [HttpGet("FindNIK/{nik}")]
+        public IActionResult GetFindNIK(string nik)
         {
             var dukcapil = _context.Dukcapils.Where(d => d.NIK == nik).ToList();
             DukcapilResult dukcapilresult = new DukcapilResult();
@@ -75,6 +111,41 @@ namespace ASPNet_Dukcapil_CRUD
             _context.SaveChanges();
             return Ok(data);
         }
+
+        //POST: api/DukcapilsAPI/NIK/{nik}
+        //[HttpPost("NIK/{nik}")]
+        //public IActionResult PostFindNIK(string nik)
+        //{
+        //    var dukcapil = _context.Dukcapils.Where(d => d.NIK == nik).ToList();
+        //    DukcapilResult dukcapilresult = new DukcapilResult();
+
+        //    if (dukcapil.Count == 0)
+        //    {
+        //        dukcapilresult.NIK = nik;
+        //        dukcapilresult.CheckStatus = "Not Found";
+        //        _context.DukcapilResults.Add(dukcapilresult);
+        //        _context.SaveChanges();
+        //        return NotFound();
+        //    }
+
+        //    var data = new
+        //    {
+        //        dukcapilID = dukcapil[0].DukcapilID,
+        //        nik = dukcapil[0].NIK,
+        //        name = dukcapil[0].Name,
+        //        maidenName = dukcapil[0].MaidenName,
+        //        birthDate = dukcapil[0].BrithDate,
+        //        gender = dukcapil[0].Gender,
+        //        religion = _context.Religions.Where(r => r.ReligionID == dukcapil[0].ReligionID),
+        //        marital = _context.Maritals.Where(m => m.MaritalID == dukcapil[0].MaritalID)
+        //    };
+
+        //    dukcapilresult.NIK = nik;
+        //    dukcapilresult.CheckStatus = "Found";
+        //    _context.DukcapilResults.Add(dukcapilresult);
+        //    _context.SaveChanges();
+        //    return Ok(data);
+        //}
 
         // PUT: api/DukcapilsAPI/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754

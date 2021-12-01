@@ -1,27 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Code\\Visual Studio\\ASP Net Core\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD.csproj": {}
+    "C:\\Users\\navcore\\Downloads\\Nitip Hawari\\COde\\Duckapil ASP Net CRUD\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD.csproj": {}
   },
   "projects": {
-    "F:\\Code\\Visual Studio\\ASP Net Core\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD.csproj": {
+    "C:\\Users\\navcore\\Downloads\\Nitip Hawari\\COde\\Duckapil ASP Net CRUD\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code\\Visual Studio\\ASP Net Core\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD.csproj",
+        "projectUniqueName": "C:\\Users\\navcore\\Downloads\\Nitip Hawari\\COde\\Duckapil ASP Net CRUD\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD.csproj",
         "projectName": "ASPNet Dukcapil CRUD",
-        "projectPath": "F:\\Code\\Visual Studio\\ASP Net Core\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD.csproj",
-        "packagesPath": "C:\\Users\\nurim\\.nuget\\packages\\",
-        "outputPath": "F:\\Code\\Visual Studio\\ASP Net Core\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD\\obj\\",
+        "projectPath": "C:\\Users\\navcore\\Downloads\\Nitip Hawari\\COde\\Duckapil ASP Net CRUD\\ASPNet Dukcapil CRUD\\ASPNet Dukcapil CRUD.csproj",
+        "packagesPath": "C:\\Users\\navcore\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\navcore\\Downloads\\Nitip Hawari\\COde\\Duckapil ASP Net CRUD\\ASPNet Dukcapil CRUD\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\nurim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\navcore\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,6 +55,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
@@ -73,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
