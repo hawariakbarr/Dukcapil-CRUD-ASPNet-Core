@@ -1,29 +1,7 @@
 # REST API example application
 
-This is a bare-bones example of a Sinatra application providing a REST
+This is a bare-bones example of Dukcapil CRUD Applications providing a REST
 API to a DataMapper-backed model.
-
-The entire application is contained within the `app.rb` file.
-
-`config.ru` is a minimal Rack configuration for unicorn.
-
-`run-tests.sh` runs a simplistic test and generates the API
-documentation below.
-
-It uses `run-curl-tests.rb` which runs each command defined in
-`commands.yml`.
-
-## Install
-
-    bundle install
-
-## Run the app
-
-    unicorn -p 7000
-
-## Run the tests
-
-    ./run-tests.sh
 
 # REST API
 
@@ -33,30 +11,43 @@ The REST API to the example app is described below.
 
 ### Request
 
-`GET /thing/`
+`GET api/DukcapilsAPI`
 
-    curl -i -H 'Accept: application/json' http://localhost:7000/thing/
+    curl -X 'GET' \'http://localhost:40098/api/DukcapilsAPI' \ -H 'accept: application/json'
 
-### Response
+### Response Body
 
-    HTTP/1.1 200 OK
-    Date: Thu, 24 Feb 2011 12:36:30 GMT
-    Status: 200 OK
-    Connection: close
-    Content-Type: application/json
-    Content-Length: 2
-
-    []
+    [
+      {
+        "dukcapilID": 1,
+        "nik": "3212101908970008",
+        "name": "Ronaldo",
+        "maidenName": "Wati",
+        "brithDate": "2021-12-31T00:00:00",
+        "gender": "Male",
+        "religionID": 1,
+        "maritalID": 1,
+        "religion": null,
+        "marital": null
+      }
+    ]
+    
+### Response Header
+    content-length: 190 
+    content-type: application/json; charset=utf-8 
+    date: Wed,01 Dec 2021 09:20:37 GMT 
+    server: Microsoft-IIS/10.0 
+    x-powered-by: ASP.NET 
 
 ## Create a new Thing
 
 ### Request
 
-`POST /thing/`
+`POST api/DukcapilsAPI`
 
     curl -i -H 'Accept: application/json' -d 'name=Foo&status=new' http://localhost:7000/thing
 
-### Response
+### Response Body
 
     HTTP/1.1 201 Created
     Date: Thu, 24 Feb 2011 12:36:30 GMT
